@@ -49,7 +49,7 @@ OUTPUT_FILE="$BASE_DIR/Prod_LPs.txt"
 STATUS_FILE="$BASE_DIR/status.txt"
 CSV_FILE="$BASE_DIR/launchpads.csv"
 
-WS1_ENV_URL="https://as1688.awmdm.com"
+WS1_ENV_URL="https://as1234.awmdm.com"
 TOKEN_URL="https://na.uemauth.workspaceone.com/connect/token"
 CLIENT_ID="OMNISSA_CLIENT_ID"
 CLIENT_SECRET="OMNISSA_CLIENT_Secret"
