@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+   "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.imprivata.groundcontrolmonitor</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>~/My_Scripts/LPMonitor_Restart/LPMonitor_Restart.sh</string>
+    </array>
+
+    <!-- Run at login -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- Repeat every 60 seconds -->
+    <key>StartInterval</key>
+    <integer>60</integer>
+
+    <!-- Output logs -->
+    <key>StandardOutPath</key>
+    <string>~/My_Scripts/LPMonitor_Restart/LPMonitor_Restart.out</string>
+    <key>StandardErrorPath</key>
+    <string>~/My_Scripts/LPMonitor_Restart/LPMonitor_Restart.err</string>
+</dict>
+</plist>
