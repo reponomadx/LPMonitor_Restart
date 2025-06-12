@@ -95,7 +95,7 @@ You can also test the LaunchAgent cycle:
 
 ---
 
-## 🧭 Flowchart (Text Version)
+## 🧭 Flowchart
 
 ```
 Start
