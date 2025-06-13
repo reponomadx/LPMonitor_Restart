@@ -1,5 +1,11 @@
 # LPMonitor_Restart
 
+![Shell Script](https://img.shields.io/badge/language-bash-blue.svg)
+![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Maintained](https://img.shields.io/badge/status-maintained-brightgreen.svg)
+![Last Commit](https://img.shields.io/github/last-commit/reponomadx/LPMonitor_Restart)
+
 A lightweight macOS tool for automatically monitoring Imprivata GroundControl Launchpads and remotely triggering Workspace ONE (WS1) soft resets when issues are detected. Built for unattended use via LaunchAgent, it helps IT teams identify and remediate disconnected or idle Launchpads with minimal manual intervention.
 
 ---
